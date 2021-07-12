@@ -1,0 +1,35 @@
+{
+   "amo": {
+      "nombre": "Roberto",
+      "tipo": "humano",
+      "le_gusta": [
+         "Una buena conversacion",
+         "los animales",
+         "jugar futbol"
+      ],
+      "edad": 45,
+      "mascota": {
+         "perro": {
+            "nombre": "Rocco",
+            "tipo": "perro",
+            "raza": "labrador",
+            "edad": 5,
+            "le_gusta": [
+               "comer",
+               "correr",
+               "ladrar"
+            ]
+         },
+         "gato": {
+            "nombre": "Coco",
+            "tipo": "gato",
+            "color": "blanco"
+         },
+         "loro": {
+            "nombre": "Pepe",
+            "tipo": "loro",
+            "color": "verde"
+         }
+      }
+   }
+}
